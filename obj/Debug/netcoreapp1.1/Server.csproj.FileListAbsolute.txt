@@ -1,0 +1,12 @@
+C:\Users\victor\source\repos\Server\Server\bin\Debug\netcoreapp1.1\Server.deps.json
+C:\Users\victor\source\repos\Server\Server\bin\Debug\netcoreapp1.1\Server.runtimeconfig.json
+C:\Users\victor\source\repos\Server\Server\bin\Debug\netcoreapp1.1\Server.runtimeconfig.dev.json
+C:\Users\victor\source\repos\Server\Server\obj\Debug\netcoreapp1.1\Server.csprojResolveAssemblyReference.cache
+C:\Users\victor\source\repos\Server\Server\obj\Debug\netcoreapp1.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Server\Server\obj\Debug\netcoreapp1.1\Server.AssemblyInfo.cs
+C:\Users\victor\source\repos\Server\Server\bin\Debug\netcoreapp1.1\Server.dll
+C:\Users\victor\source\repos\Server\Server\bin\Debug\netcoreapp1.1\Server.pdb
+C:\Users\victor\source\repos\Server\Server\bin\Debug\netcoreapp1.1\BinaryTree.dll
+C:\Users\victor\source\repos\Server\Server\obj\Debug\netcoreapp1.1\Server.dll
+C:\Users\victor\source\repos\Server\Server\obj\Debug\netcoreapp1.1\Server.pdb
+C:\Users\victor\source\repos\Server\Server\bin\Debug\netcoreapp1.1\BinaryTree.pdb
